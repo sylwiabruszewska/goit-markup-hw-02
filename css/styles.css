@@ -29,7 +29,7 @@ body {
 
 /* LINKS STYLE */
 
-.main-nav-links {
+.main-nav-link {
   color: var(--text-color);
   text-decoration: none;
   font-weight: 500;
@@ -38,14 +38,14 @@ body {
   letter-spacing: 0.02em;
 }
 
-.main-nav-links:hover,
-.main-nav-links:focus,
-.main-nav-contact-links:hover,
-.main-nav-contact-links:focus {
+.main-nav-link:hover,
+.main-nav-link:focus,
+.main-nav-contact-link:hover,
+.main-nav-contact-link:focus {
   color: var(--brand-color);
 }
 
-.main-nav-contact-links {
+.main-nav-contact-link {
   color: #757575;
   font-weight: 500;
   text-decoration: none;
